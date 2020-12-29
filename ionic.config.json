@@ -1,0 +1,7 @@
+{
+  "name": "myTabsPWA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
